@@ -1,0 +1,58 @@
+                                KofBreak Car
+    
+    Esse projeto foi desenvolvido para cadeira de introdução à computação do 
+    curso de engenharia da computação 2017.1!
+    
+    Desenvolvido por:
+    
+    Gabriel Toscano (gtbo@cin.ufpe.br)
+    José Carlos (jccb@cin.ufpe.br)
+    Lucas Mota (lmm3@cin.ufpe.br)
+    Luiz Albuquerque (laaj@cin.ufpe.br)
+    Ramon Wanderley (rjvw@cin.ufpe.br)
+    Vinicius Serra (vssm@cin.ufpe.br)
+    
+    
+    ---------------------------- Terça - 30/05/2017 ---------------------------- 
+    Feito por:  Gabriel Toscano
+                José Carlos
+                Lucas Mota
+                Ramon Wanderley
+    
+    Criação do Workspace no C9.io;
+    Escolha do responsável por fazer o circuito (Pista) teste (Lucas Mota);
+    Conexão do sensor optico ao Galileo(OUT porta 7);
+    
+    ----------------------------------------------------------------------------
+    
+    ---------------------------- Quinta - 01/06/2017 --------------------------- 
+    Feito por: Gabriel Toscano
+               José Carlos
+               Lucas Mota
+               Luiz Albuquerque
+               Ramon Wanderley
+               Vinicius Serra
+   
+    Montagem do circuito teste;
+    Teste do código de desvio;
+    Soldar o carregador; (2 vezes)        
+            
+    
+ 
+    ----------------------------------------------------------------------------
+    
+    
+    ---------------------------- Terça -06/06/2017(à confirmar) --------------------------- 
+    Metas para 06/06/17:
+         Implementar sensor optico;
+         Testar sensor optico;
+         Fazer carrinho seguir linhas pretas;
+         Corrigir defeitos no desvio;
+         Optimizar tempo de percurso;
+         Corrigir possíveis bugs;
+            
+     
+    Feito por: 
+    
+ 
+    ----------------------------------------------------------------------------

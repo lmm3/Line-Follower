@@ -1,0 +1,12 @@
+{
+  "name": "kof_break_car",
+  "id": "4926391",
+  "description": "",
+  "gitUrl": "",
+  "workspaceType": "cpp",
+  "dockerBaseImage": "cloud9/ws-cpp:2017-02-19T18-10-29Z",
+  "owner": {
+    "name": "lucasmota",
+    "id": "1835015"
+  }
+}
